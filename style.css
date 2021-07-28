@@ -1,0 +1,40 @@
+/* font-poppins  */
+body {
+  font-family: "Poppins", sans-serif;
+}
+.bg-color {
+  background-color: #264653;
+}
+.text-top {
+  width: 480px;
+  height: 22px;
+  font-size: 14px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: #ffffff;
+}
+.text-bottom {
+  width: 456px;
+  height: 72px;
+  font-size: 16px;
+  color: #ffffff;
+}
+.text-mid {
+  width: 456px;
+  height: 66px;
+  font-size: 48px;
+  color: #ffffff;
+}
+.bike-border {
+  width: 552px;
+  height: 447px;
+
+  margin-top: 50px;
+}
+.button-bg-color {
+  background-color: #e76f51;
+  color: #ffffff;
+  width: 168px;
+  height: 44px;
+  font-size: 16px;
+}
