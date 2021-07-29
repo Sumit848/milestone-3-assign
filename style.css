@@ -38,3 +38,9 @@ body {
   height: 44px;
   font-size: 16px;
 }
+.ftr-bike-span-clr {
+  color: #e76f51;
+}
+.checked {
+  color: orange;
+}
