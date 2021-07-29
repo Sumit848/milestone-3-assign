@@ -44,3 +44,9 @@ body {
 .checked {
   color: orange;
 }
+.slider-bg-color {
+  background-image: linear-gradient(grey, rgb(158, 217, 231));
+}
+.subscribe-bg-color {
+  background-image: linear-gradient(rgb(145, 175, 145), rgb(209, 209, 157));
+}
